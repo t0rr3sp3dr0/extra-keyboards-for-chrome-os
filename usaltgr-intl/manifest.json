@@ -1,0 +1,19 @@
+{
+  "name": "English (intl., with AltGr dead keys)",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "English international keyboard layout with AltGr dead keys",
+  "permissions": [
+    "input"
+  ],
+  "input_components": [
+    {
+      "name": "English (intl., with AltGr dead keys)",
+      "type": "ime",
+      "id": "usaltgr_intl",
+      "description": "English international keyboard layout with AltGr dead keys",
+      "language": "en-US",
+      "layouts": ["us(altgr-intl)"]
+    }
+  ]
+}
